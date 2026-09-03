@@ -176,4 +176,4 @@ with tab3:
                 st.error(str(e))
 
 st.divider()
-st.caption("Educational guidance only. Air-quality data and AI advice should not replace professional medical advice.")
+st.caption("Group 27 Air Quality and Pollution Helath Advisor")
