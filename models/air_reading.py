@@ -15,6 +15,7 @@ class AirReading:
     no2: Optional[float]
     forecast: List[Dict[str, Any]] = field(default_factory=list)
 
+    
     def to_dict(self):
         return {
             "location": self.location,
